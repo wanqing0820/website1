@@ -7,13 +7,11 @@
 
 - Need #1: [Brief Title]
   - **Need**
-    - > What does your target audience II need?
-    - portal for uploading their artworks/photographs
-    - information about the reward they will get from their work
+    - aesthetic device wallpapers
+    - permission to upload wallpapers
   - **Design Ideas and Choices**
-    - > How will you refine your site's design to meet this need?
-    - I will include a form submission or links for them to upload their work
-    - dedicate a section for the rewards or rather information about any potential copyright issues/ commercial purposes
+    - A gallery page with an organization of content that suits a scrollable gallery page
+    - A sign up page to collect user information and creates membership
 
 ### Content Organization/Navigation
 
@@ -22,9 +20,7 @@
 - ...Site's policy about copyright issues
 
 > Card sorting
-> ![card-sorting](card-sorting-step1.jpg)
-> ![card-sorting](card-sorting-photographers.jpg)
-> ![card-sorting](final-card-sorting.jpg)
+> ![card-sorting](card-sorting-step1.jpg) > ![card-sorting](card-sorting-photographers.jpg) > ![card-sorting](final-card-sorting.jpg)
 
 > Pages resulted from card sorting
 
@@ -34,11 +30,4 @@
 - Contact Us
 
 > Design
-> ![refined-design-1-1](refined-design-1-1.jpg)
-> ![refined-design-1-2](refined-design-1-2.jpg)
-> ![refined-design-1-3](refined-design-1-3.jpg)
-> ![refined-design-2-1](refined-design-2-1.jpg)
-> ![refined-design-2-2](refined-design-2-2.jpg)
-> ![refined-design-2-3](refined-design-2-3.jpg)
-> ![refined-design-2-3](refined-design-2-4.jpg)
-> ![refined-design-2-3](refined-design-2-5.jpg)
+> ![refined-design-1-1](refined-design-1-1.jpg) > ![refined-design-1-2](refined-design-1-2.jpg) > ![refined-design-1-3](refined-design-1-3.jpg) > ![refined-design-2-1](refined-design-2-1.jpg) > ![refined-design-2-2](refined-design-2-2.jpg) > ![refined-design-2-3](refined-design-2-3.jpg) > ![refined-design-2-3](refined-design-2-4.jpg) > ![refined-design-2-3](refined-design-2-5.jpg)
