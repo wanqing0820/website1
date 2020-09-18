@@ -9,7 +9,7 @@
 - Completed with aesthetic and user-centric web design documented in design
   journey in the document folder
 
-> How to run locally?
+> How to run it locally?
 
 - Using visual studio code, serve the project on localhost:3000 with PHP server
   exrension
