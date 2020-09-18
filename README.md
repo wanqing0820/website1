@@ -7,7 +7,7 @@
   (sticky form with feedback) which links to confirmation page if successful,
   and a website policy page.
 - Completed with aesthetic and user-centric web design documented in design
-  journey
+  journey in the document folder
 
 > How to run locally?
 
