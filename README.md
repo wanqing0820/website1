@@ -12,4 +12,4 @@
 > How to run it locally?
 
 - Using visual studio code, serve the project on localhost:3000 with PHP server
-  exrension
+  extension
